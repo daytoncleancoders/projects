@@ -1,13 +1,5 @@
-clone repo
-give read access
+## Introduction to Command Line
 
-readme.md (template.  fill in commands you used)
-download this zip (curl)
-extract
-organize the flat html app (mkdir, ls, mv)
-use python -m SimpleHTTPServer
-create a shell script to start this app locally (chmod)
-rename readme.md to .sh and fill in the blanks
-  automate that whole thing in a sh script that can be shared with others (scripting)
+###### Step 1
 
-Show recent history, execute one of them (yock)
+how recent history, execute one of them (yock)
