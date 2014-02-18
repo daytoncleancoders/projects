@@ -9,7 +9,7 @@ comfortable with the basics of command line automation.
 _Hints are provided for both Mac/nix and Windows Powershell._
 
 1. Find a partner and pair up
-2. Download and save this [todo.txt](todo.txt)
+2. Download and save this [todo.txt](https://raw.github.com/daytoncleancoders/projects/master/commandline/todo.txt)
 3. Complete each step using a command line tool
 4. Place the full command used under the step
 5. Get another team to successfully execute the script
