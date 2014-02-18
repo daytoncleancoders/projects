@@ -1,8 +1,11 @@
-## Command Line Automation Kata
+# Command Line Automation Kata
 
-Most developers are capable at the command line, but with so many tools built
-for the command line even frontend devs need to know their way around.
+**Command line productivty** tools are evolving at an incredible pace.  If
+you're not proficient navigating and automating your favorite shell you're at a
+significant disadvantage.  This kata was created to help developers become
+comfortable with the basics of command line automation.
 
+## Directions
 _Hints are provided for both Mac/nix and Windows Powershell._
 
 1. Find a partner and pair up
