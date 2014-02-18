@@ -17,4 +17,6 @@ Step 5: Turn todo.txt into an executable script
 (mac/nix hint: chmod, shebang)
 (windows hint: ps1)
 
-Extra: Make the script only host when run subsequent times
+
+Extra: Make the script only run Step 4: Host when run subsequent times
+Extra: Convert Step 4 to putting a start script in the site folder
