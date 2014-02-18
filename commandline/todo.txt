@@ -1,17 +1,20 @@
-readme.md (template.  fill in commands you used)
+Step 1: Download this zip: 
+(mac/nix hint: curl, wget)
+(windows hint: net.webclient)
 
-download this zip (hint: curl, wget)
+Step 2: Extract the zip
+(hint: tar)
+(hint: 7zip)
 
-extract (hint: tar)
+Step 3: Organize the flat html app 
+(hint: mkdir, ls, mv)
 
-organize the flat html app (mkdir, ls, mv)
+Step 4: Host this site folder using a command line webserver 
+(mac/nix hint: python SimpleHTTPServer)
+(windows hint: IISExpress)
 
-use python -m SimpleHTTPServer
+Step 5: Turn todo.txt into an executable script
+(mac/nix hint: chmod, shebang)
+(windows hint: ps1)
 
-create a shell script to start this app locally (chmod)
-
-rename readme.md to .sh and fill in the blanks
-
-automate that whole thing in a sh script that can be shared with others (scripting)
-
-Show recent history, execute one of them
+Extra: Make the script only host when run subsequent times
