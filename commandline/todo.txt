@@ -1,4 +1,4 @@
-Step 1: Download this zip: 
+Step 1: Download this zip: https://github.com/daytoncleancoders/projects/raw/master/commandline/command-line-kata.zip
 (mac/nix hint: curl, wget)
 (windows hint: net.webclient)
 
