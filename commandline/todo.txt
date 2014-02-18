@@ -11,7 +11,7 @@ Step 3: Organize the flat html app
 
 Step 4: Host this site folder using a command line webserver 
 (mac/nix hint: python SimpleHTTPServer)
-(windows hint: IISExpress)
+(windows hint: IISExpress http://bit.ly/iisexpress-dcc)
 
 Step 5: Turn todo.txt into an executable script
 (mac/nix hint: chmod, shebang)
