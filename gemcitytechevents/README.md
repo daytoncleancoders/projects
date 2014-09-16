@@ -4,9 +4,10 @@ Our 2014/15 Winter project aims to create a local tech event aggregator for the
 Dayton area.
 
 ## Purpose
-The motto of Dayton Clean Coders has always been _Exploring Patterns, Practices, and Tools for Sustainable Code_.
-Gem City Tech Events is meant to be an opportunity to used these patterns, 
-practices and tools in a non-pressured environment to build a reasonably sized application!
+The motto of Dayton Clean Coders has always been _Exploring Patterns, 
+Practices, and Tools for Sustainable Code_.  Gem City Tech Events is meant to be 
+another opportunity to explore these patterns, practices and tools in a 
+non-pressured environment while building a reasonably sized application!
 
 ## Things to explore:
 * Clean Architectures
