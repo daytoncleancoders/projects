@@ -33,5 +33,3 @@ non-pressured environment while building a reasonably sized application!
 
 1. Exposes an API
 
-
-
